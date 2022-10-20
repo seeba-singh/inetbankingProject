@@ -36,13 +36,13 @@ public void addingNewCus() throws IOException {
 		hp.dobPicker("Dec");
 		hp.dobPicker("30");
 		hp.dobPicker("1995");
-		hp.enterCusAdd("Sai krupa Apartment Alandi road Bhosari Pune");
+		hp.enterCusAdd("Mirchandani Palms");
 		hp.enterCity("Pune");
 		hp.enterState("Maharashtra");
-		hp.enterPin("411039");
-		hp.enterMobileNo("9846576764");
-		hp.enterCusEmail("poojapwankhade358@gmail.com");
-		hp.enterPassword("EnEzynE");
+		hp.enterPin("411027");
+		hp.enterMobileNo("9347326637");
+		hp.enterCusEmail("seebasingh30@gmail.com");
+		hp.enterPassword("");
 		hp.clickSubButt();
 		
 		
