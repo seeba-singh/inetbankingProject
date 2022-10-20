@@ -31,11 +31,11 @@ public void addingNewCus() throws IOException {
 	lp.clickLogButt();
 	hp=new HomePage(driver);
 	hp.createNewCustomer();
-	hp.enterCusName("Priya Wane");
-		hp.selectGender();
-		hp.dobPicker("Mar");
-		hp.dobPicker("19");
-		hp.dobPicker("2009");
+	hp.enterCusName("Seeba Singh");
+		hp.selectGender("Female");
+		hp.dobPicker("Dec");
+		hp.dobPicker("30");
+		hp.dobPicker("1995");
 		hp.enterCusAdd("Sai krupa Apartment Alandi road Bhosari Pune");
 		hp.enterCity("Pune");
 		hp.enterState("Maharashtra");
